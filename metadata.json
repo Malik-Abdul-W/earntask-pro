@@ -1,0 +1,9 @@
+
+{
+  "name": "EarnTask Pro",
+  "description": "A high-performance task-based earning platform where users can complete social media tasks to earn points and redeem them for real cash via popular payment gateways.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
